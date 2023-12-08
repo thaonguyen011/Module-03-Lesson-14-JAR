@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Quadratic_Equation_Resolver_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Quadratic_Equation_Resolver/out/artifacts/Quadratic_Equation_Resolver_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Quadratic_Equation_Resolver/out/artifacts/Quadratic_Equation_Resolver_jar" recursive="false" />
+  </library>
+</component>
